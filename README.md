@@ -1,2 +1,4 @@
-# TestStudyGit
-just test git repository code 
+# learngit
+this is a repo for learn git tools.
+
+added at 2010/11/01.
